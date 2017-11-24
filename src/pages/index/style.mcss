@@ -1,0 +1,82 @@
+
+.index-content {
+    border: 1px solid #f44;
+}
+.index-title {
+	line-height: 30px;
+    margin: 10px 0;
+	padding: 0 10px;
+	background:#f44;
+	font-size: 12px;
+	color: #fff;
+}
+.index-list {
+    position: relative;
+}
+.index-item {
+    width: 55%;
+    line-height: 24px;
+    padding: 0 10px;
+    font-size: 12px;
+    color: #333;
+}
+.index-item a {
+    color: #004499;
+}
+.index-list li:hover a {
+    background: #9bc6fa;
+}
+.friendLink {
+    width: 1024px;
+    height: 100px;
+    position: relative;
+    margin-top: 4px;
+    border: 1px solid #333;
+    background: #fff;
+    clear: both;
+}
+.friendLink-title{
+    line-height: 25px;
+    padding-left: 15px;
+    font-size: 12px;
+    background: #06c;
+    color: #fff;
+}
+.index-friendLink{
+    height: 75px;
+    border: 1px solid #333;
+}
+.friendLink-item {
+    width: 84px;
+    line-height: 25px;
+    float: left;
+    text-align: center;
+}
+.friendLink-item a{
+    font-size: 12px;
+    color: #3D81F2;
+}
+.friendLink-item a:hover{
+    color: #333;
+    text-decoration: underline;
+}
+.radar{
+    float: right;
+    margin: 10px;
+}
+.clock {
+    position: absolute;
+    right: 30px;
+    bottom: 20px;
+}
+#swiper-container-con {
+    width: 1024px;
+}
+#swiper-wrapper-wra {
+    height: 500px;
+    margin: 0 10px;
+}
+.swiper-slide-img {
+    width: 1024px;
+    height: 400px;
+}

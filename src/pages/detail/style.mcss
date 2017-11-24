@@ -1,0 +1,48 @@
+.detail { 
+    border: 1px solid #ccc;
+}
+.detail-title {
+    line-height: 60px;
+    border-bottom:  1px dashed #ccc;
+    text-align: center;
+    font-size: 16px;
+    color: #007cd6;
+}
+.detail-content {
+    line-height: 24px;
+    width: 85%;
+}
+.detail-content p {
+    padding: 0 20px;
+    margin-top: 10px;
+    text-align: justify;
+}
+.detail-content img{
+    float: left;
+}
+.detail-img {
+    vertical-align:middle;
+    float: left;
+    margin: 15px;
+}
+.detail-list-title {
+    height: 25px;
+    line-height: 25px;
+    margin-top: 20px;
+    background: #777dff;
+}
+.detail-list-item {
+    width: 100%;
+    line-height: 24px;
+}
+.detail-list-item li {
+    width: 45%;
+    padding-left: 15px;
+    float: left;
+    color: green;
+}
+.detail-advAbsolute {
+    position: absolute;
+    top: 190px;
+    right: 0;
+}
